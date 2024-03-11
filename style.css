@@ -9,7 +9,11 @@
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background-color: #f7f7f7;
+    background: linear-gradient(
+    90deg,
+    rgb(179, 5, 170) 0%,
+    rgb(53, 10, 206) 100%
+  );
   }
   
   .calculator {
